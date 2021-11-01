@@ -22,7 +22,7 @@
             </div>
             <div class="login-butons">
                <button class="button sign-in-button">Sign In</button>
-               <button class=" button button-dark">Sign Up</button>
+               <button class=" button button-dark" onclick="redirect()">Sign Up</button>
             </div>
             <div class="mobile-nav-ham">
                <img src="./Assets/img/Hamburger Menu.svg" class="mobile-nav-ham-img" alt="">
@@ -172,5 +172,11 @@
             </ul>
          </div>
       </footer>
+
+      <script>
+         function redirect(){
+            window.location.href="./signup.html"
+         }
+      </script>
    </body>
 </html>
