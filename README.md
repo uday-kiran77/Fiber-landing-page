@@ -1,6 +1,4 @@
-
-# Fiber Landing Page
-
-#### Frontend design challenge by [Codewell](https://www.codewell.cc/challenges/fiber-landing-page--608a7e639691700015db16d1)
+# <p align='center'>Fiber Landing Page</p>
+### <p align='center'> Challenge by <a href='https://www.codewell.cc/challenges' target='_blank'>Codewell</a>
 
 ![alt text](https://github.com/uday-kiran77/Fiber-landing-page/blob/main/Design/Landing%20Page%20-%20Desktop%20View.png?raw=true)
